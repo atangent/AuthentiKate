@@ -1,4 +1,4 @@
-from io_stuff import read_data
+from io_functions import read_data
 from train import train, average
 
 def cmpr(l1, l2):
