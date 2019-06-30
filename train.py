@@ -1,4 +1,4 @@
-from io_stuff import read_data
+from io_functions import read_data
 
 def average(lst):
     'Generic average'
