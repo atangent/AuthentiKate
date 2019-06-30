@@ -1,6 +1,6 @@
 # AuthentiKate. She's got real-money vision.
 
-A machine-learning algorithm that intakes 5 features of money to determine if banknote is authentic or fraudulent. 
+A machine-learning classification algorithm that intakes 5 features of money to determine if banknote is authentic or fraudulent.   
 Runs with **75% accuracy**. 
 
 ### Banknotes are from
